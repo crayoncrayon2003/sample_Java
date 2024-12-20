@@ -1,0 +1,2 @@
+javac for_and_while.java
+java for_and_while

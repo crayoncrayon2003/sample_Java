@@ -1,0 +1,2 @@
+javac ver_and_const.java
+java ver_and_const
