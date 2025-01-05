@@ -1,0 +1,2 @@
+javac array_and_list.java
+java array_and_list

@@ -1,0 +1,2 @@
+javac if_and_swhitch.java
+java if_and_swhitch
