@@ -2,7 +2,7 @@
 ## Install
 ```
 sudo apt update
-sudo apt install openjdk-11-jdk
+sudo apt install openjdk-21-jdk
 ```
 ## Check
 ```
@@ -15,6 +15,6 @@ javac -version
 sudo vim ~/.bashrc
 ```
 ```
-export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
 ```
 
