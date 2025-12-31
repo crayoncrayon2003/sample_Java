@@ -1,6 +1,6 @@
 # Root Dir
 ```
-cd 90_Maven/sampl21
+cd 90_Maven/sample1
 ```
 
 # Make MavenProject
