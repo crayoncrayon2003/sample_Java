@@ -12,7 +12,7 @@ javac -version
 
 ## Setting JAVA_HOME
 ```
-sudo vim ~/.bashrc
+vim ~/.bashrc
 ```
 ```
 export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
